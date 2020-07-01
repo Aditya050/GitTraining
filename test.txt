@@ -1,3 +1,3 @@
 This is a demo text file for github training
 Adding a second line for test
-Test Line 3
+This is to add a line for test
